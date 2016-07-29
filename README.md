@@ -1,5 +1,3 @@
-# ClkType
+# clkcert
 
-Clock validation for synchronous data-flow languages as type checking. This tool is implemented for Signal language
-
-https://en.wikipedia.org/wiki/SIGNAL_(programming_language)
+Certification fo clock transformation for synchronous data-flow languages such as Lustre-like and Signal-like langues.
